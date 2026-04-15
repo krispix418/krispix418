@@ -36,6 +36,3 @@ ML case studies from my UT Austin Post Graduate Program — EDA, regression, cla
 - **Plaid Budget Sync** — automated household transaction pipeline with a dbt transformation layer
 - **Miata Mod Tracker** — because my build wishlist needs a proper home
 
----
-
-*Always open to connecting — find me on [LinkedIn](https://linkedin.com/in/chrishalim)*
