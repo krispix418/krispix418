@@ -19,6 +19,9 @@ When I'm not in the data, I'm at the gym, wrenching on my 2006 Mazda Miata, or w
 
 ## Featured Projects
 
+### [The JDM Ledger](https://github.com/krispix418/jdm-market-tracker) · [live site](https://jdm-market-tracker.vercel.app)
+An editorial market paper for JDM and sport-car auction values. Tracks 55 cars across ~15k auction results with weekly automated scraping, price trend charts, a per-model hedonic regression ("what actually drives the price"), and AI-written market insights grounded in the data. Next.js, Supabase, Python, GitHub Actions.
+
 ### [Calendar Automation Suite](https://github.com/krispix418/calendar-syncs)
 Tired of manually logging fitness classes — built a pipeline to do it automatically. Parses Gmail for class booking confirmations, syncs to Google Calendar, and generates a full month of gym workouts scheduled intelligently around classes and rest days.
 
@@ -32,7 +35,6 @@ ML case studies from my UT Austin Post Graduate Program — EDA, regression, cla
 
 ## Currently Building
 
-- **JDM Market Tracker** — scraping and analyzing the used Japanese car market
-- **Plaid Budget Sync** — automated household transaction pipeline with a dbt transformation layer
+- **[Plaid Budget Sync](https://github.com/krispix418/plaid-budget-sync)** — a Plaid-powered planning layer that reconciles card balances against the money set aside to pay them
 - **Miata Mod Tracker** — because my build wishlist needs a proper home
 
